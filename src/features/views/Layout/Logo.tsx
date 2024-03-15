@@ -6,7 +6,7 @@ export default function Logo() {
     <Link to="/">
       <div className="mr-6 flex items-center space-x-2">
         <Bird className="h-6 w-6" />
-        <span className="hidden font-bold sm:inline-block">全链路</span>
+        <span className="hidden font-bold sm:inline-block">全链路1111111</span>
       </div>
     </Link>
   )
